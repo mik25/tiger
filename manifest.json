@@ -1,0 +1,1 @@
+{"id":"org.jacobsladderiptv","version":"1.0.1","name":"Jacobs Ladder IPTV","description":"Mixed Category IPTV.","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["Jacobs Ladder"],"icon":"https://helpyourself.surge.sh/logo.png","catalogs":[{"id":"Jacobs Laddercat","name":"Jacobs Ladder IPTV","type":"tv"}]}

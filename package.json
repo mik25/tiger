@@ -1,0 +1,22 @@
+{
+  "name": "iptv",
+  "version": "1.0.0",
+  "description": "Por JC",
+  "main": "index.js",
+  "repository": "fools",
+  "license": "help_yourself",
+  "scripts": {
+    "start": "node server.js",
+    "build": "node build.js",
+    "get": "node get-m3u.js"
+  },
+  "dependencies": {
+    "async": "^2.6.1",
+    "url": "^0.11.0",
+    "needle": "^2.2.4",
+    "stremio-addon-sdk": "^1.6.2",
+    "m3u8-reader": "^1.1.0",
+    "base-64": "^0.1.0",
+    "rimraf": "^3.0.2"
+  }
+}

@@ -1,0 +1,1 @@
+{"id":"org.tigerfightsiptv","version":"1.0.1","name":"Tigerfights IPTV","description":"Mixed IPTV","resources":["stream","meta","catalog"],"types":["tv","channel"],"idPrefixes":["Tigerfights IPTV"],"icon":"https://tigerfights.surge.sh/logo.png","catalogs":[{"id":"Tigerfights IPTVcat","name":"Tigerfights IPTV","type":"tv"}]}
